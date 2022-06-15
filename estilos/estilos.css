@@ -1,0 +1,69 @@
+.input{
+border:none;
+outline: none;
+/* text-align: center; */
+background-color: transparent;
+padding: 5px;
+color:#fff;
+
+}
+.chip{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+}
+.iCard{
+    margin-left: 30px;
+}
+
+.name{
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+
+.debitCard{
+    height: 250px;
+    border-radius: 25px  25px  25px  25px ;
+    background: linear-gradient(#000, #444);
+
+    /* background-image: url(https://www.pricesmart.com/site/binaries/content/gallery/pricesmartwebapp/marketplace/landing-pages/credit-card/cc_pricesmart_colpatria_co_updated.png); */
+}
+ 
+.holder{
+    display: flex;
+    flex-direction: column;
+}
+
+.submitBtn{
+    margin: 20px;
+    width:80px;
+}
+
+.logoSantander{
+    width: 90px;
+    height: 40px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+
+}
+.letter{
+    color: #fff;
+    font-size: 10px;
+    margin-left: 140px;
+}
+
+.visa{
+    margin-top:20px;
+    margin-left:60px;
+    width: 60px;
+    height: 20px;
+    
+}
+
+.hero{
+    height:   739px;
+    background-image: url(https://media4.giphy.com/media/cOSbH8NoUFt9MXbuie/giphy.gif?cid=ecf05e47648sglqz0fdktbd011s6imb5ejmiw3roj27qu1aa&rid=giphy.gif&ct=g);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
